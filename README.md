@@ -8,10 +8,6 @@ An interactive, mobile compatible picture quiz with JQuery validation.
 
 To demonstrate a method of javascript validation, I've created a responsive image grid forming a quiz. A user can guess the video game character's name shown in each image by entering their answer into the corresponding input within each block. The user will be notified with a visual element as to whether the answer was correct or incorrect, based on a list of pre-defined possible answers for each block. 
 
-### Instructions
-
-View a live version [here](http://portfolio.grahamspeed.com/picture-quiz/) or clone/download the project and run index.html in a browser.
-
 ## Functionality
 
 ### If Statement
